@@ -110,7 +110,7 @@ const Auth = () => {
                     </div>
                 </div>
                 {/* Right Section */}
-                <div className="hidden md:block md:w-3/4 bg-cover bg-left-bottom" style={{ backgroundImage: "url('../assets/login.jpg')" }}></div>
+                <div className="hidden md:block md:w-3/4 bg-cover bg-left-bottom" style={{ backgroundImage: "url('/login.jpg')" }}></div>
             </div>
         </div>
     );
